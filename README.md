@@ -1,6 +1,6 @@
 # Checkout the deployed app, from link below.
 
-## https://project-spotify-75da3.firebaseapp.com/
+## https://project-spotify-app-6b7a5.web.app
 
 # Getting Started with Create React App
 
